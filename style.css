@@ -1,4 +1,9 @@
 button {
-    background: yellow;
+    background: red;
     padding: 1em;
+    font-size: 30px;
+}
+
+div {
+    font-size: 40px;
 }
